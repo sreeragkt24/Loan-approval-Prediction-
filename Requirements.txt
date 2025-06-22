@@ -1,0 +1,8 @@
+- python libraries used
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
